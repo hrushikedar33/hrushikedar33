@@ -40,7 +40,7 @@
 
 </p>
 
-## [hrushikedar.me](https://www.hrushikedar.me/)
+## [hrushikedar.vercel.app](https://hrushikedar.vercel.app/)
 
 <!---
 hrushikedar33/hrushikedar33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
