@@ -16,6 +16,7 @@
 <h4>Languages and tools</h4>
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+    <img alt="Dotnet" src="https://img.shields.io/badge/Dotnet-143999C?style=flat-square&logo=dotnet&logoColor=white" />
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
     <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
